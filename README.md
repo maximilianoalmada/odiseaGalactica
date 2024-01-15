@@ -32,24 +32,12 @@ Pantalla explicativa del nivel 2.
 Pantalla explicativa del nivel 3.
 
 
-![Previsualizacion Nivel 1](./assets/jugabilidadNivel1.jpeg)
-Una previsualización de la jugabilidad del nivel 1.
+![Pantalla perdiste](./assets/perdiste.png)
+Pantalla "perdiste" del juego.
 
 
-![Previsualizacion Nivel 2](./assets/jugabiliadadNivel2.jpeg)
-Una previsualización de la jugabilidad del nivel 2.
-
-
-![Previsualizacion Nivel 3](./assets/jugabilidadNivel3.jpeg)
-Una previsualización de la jugabilidad del nivel 3.
-
-
-![Pantalla perdiste](./assets/pantallaPierde.png)
-Pantalla de perdiste del juego.
-
-
-![Pantalla ganaste](./assets/pantallaGanaste.png)
-Pantalla de ganaste del juego.
+![Pantalla ganaste](./assets/ganaste.png)
+Pantalla "ganaste" del juego.
 
 
 ## Reglas de Juego / Instrucciones: 
@@ -66,16 +54,16 @@ Durante el transcurso de los niveles, aparecerán hasta dos tanques de nafta y m
 
 <b>Tercer nivel:</b> En este último nivel, el jugador tendrá que matar al jefe final utilizando los recursos especiales previamente adquiridos mientras maneja sus recursos normales y además esquiva los ataques enemigos. 
 
-## Reglas de Juego / Instrucciones:
+## Controles:
 <b>Mover:</b> La nave se mueve con las flechas del teclado (flecha para arriba, flecha para abajo, flecha para la derecha, flecha para la izquierda).
 
 <b>Disparar:</b> La nave dispara con la barra espaciadora.
 
-<b>Sonido:</b> Con la tecla "S" vas cambiando el volumen del juego entre nulo, bajo y normal.
+<b>Sonido:</b> Con la teclas "W", "E" y "R" vas cambiando el volumen del juego entre normal, bajo y nulo.
 
-<b>Pasar a siguiente pantalla:</b> Con la tecla de enter se pasa a la siguiente pantalla.
+<b>Pasar a siguiente pantalla:</b> Con la tecla Enter se pasa a la siguiente pantalla.
 
-<b>Salir al perder/ganar:</b> Con la tecla "q" salis del juego al finalizar.
+<b>Salir al perder/ganar:</b> Con la tecla "Q" salis del juego al finalizar.
 
 ## Otros:  
 
