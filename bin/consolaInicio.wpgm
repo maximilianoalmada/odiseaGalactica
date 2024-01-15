@@ -1,0 +1,10 @@
+import wollok.game.*
+import consola.*
+
+program Juego {
+	//configuracion del juego
+	inicio.config()
+	
+	// que arranque el juego!
+	game.start()
+}
