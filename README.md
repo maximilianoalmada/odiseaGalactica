@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/qO1I4X2W)
-# Odisea Alienígena
+# Odisea Galáctica
 
  
 
@@ -7,11 +7,11 @@
 
 - Almada, Maximiliano 
 
+- Jofré, Priscila 
+
 - Diaz, Gonzalo 
 
 - Galdin, Santino 
-
-- Jofré, Priscila 
 
  
 
@@ -32,33 +32,21 @@ Pantalla explicativa del nivel 2.
 Pantalla explicativa del nivel 3.
 
 
-![Previsualizacion Nivel 1](./assets/jugabilidadNivel1.jpeg)
-Una previsualización de la jugabilidad del nivel 1.
-
-
-![Previsualizacion Nivel 2](./assets/jugabiliadadNivel2.jpeg)
-Una previsualización de la jugabilidad del nivel 2.
-
-
-![Previsualizacion Nivel 3](./assets/jugabilidadNivel3.jpeg)
-Una previsualización de la jugabilidad del nivel 3.
-
-
-![Pantalla perdiste](./assets/pantallaPierde.png)
+![Pantalla perdiste](./assets/perdiste.png)
 Pantalla de perdiste del juego.
 
 
-![Pantalla ganaste](./assets/pantallaGanaste.png)
+![Pantalla ganaste](./assets/ganaste.png)
 Pantalla de ganaste del juego.
 
 
 ## Reglas de Juego / Instrucciones: 
 
-<b>General:</b> El jugador manejará una nave espacial con diversos objetivos que varían en cada uno de los niveles. La nave se mueve con las flechas direccionales del teclado y dispara con el espacio. 
+<b>General:</b> El jugador manejará una nave espacial con diversos objetivos que varían en cada uno de los niveles. La nave se mueve con las <u>flechas direccionales</u> del teclado y dispara con el <u>Espacio</u>. 
 
 La nave tiene dos recursos principales: la nafta, que se gasta cada vez que se mueve, y la munición, que la utiliza para deshacerse de los enemigos. Además, tiene tres vidas por nivel. Si un enemigo choca con la nave, le restará una vida y el jugador pierde si la vida llega a cero. 
 
-Durante el transcurso de los niveles, aparecerán hasta dos tanques de nafta y municiones extra en posiciones aleatorias que el jugador podrá agarrar para superar los objetivos con mayor facilidad. 
+Durante el transcurso de los niveles, aparecerán hasta dos tanques de nafta y municiones extra en posiciones aleatorias que el jugador podrá agarrar para superar los objetivos con mayor facilidad. Una vez obtenidos, los recursos se regenerarán.
 
 <b>Primer nivel:</b> El jugador tendrá que eliminar todos los enemigos para pasar el nivel. Este nivel está diseñado para que el jugador aprenda sobre los controles y el funcionamiento del juego de forma práctica. 
 
@@ -71,16 +59,8 @@ Durante el transcurso de los niveles, aparecerán hasta dos tanques de nafta y m
 
 <b>Disparar:</b> La nave dispara con la barra espaciadora.
 
-<b>Sonido:</b> Con la tecla "S" vas cambiando el volumen del juego entre nulo, bajo y normal.
+<b>Sonido:</b> Con las teclas <u>W</u>, <u>E</u> y <u>R</u> vas cambiando el volumen del juego entre normal, bajo y nulo.
 
-<b>Pasar a siguiente pantalla:</b> Con la tecla de enter se pasa a la siguiente pantalla.
+<b>Pasar a siguiente pantalla:</b> Con la tecla <u>Enter</u> se pasa a la siguiente pantalla.
 
-<b>Salir al perder/ganar:</b> Con la tecla "q" salis del juego al finalizar.
-
-## Otros:  
-
-Programación con Objetos I – Comisión 2 – Universidad Nacional de Hurlingham 
-
-Versión de Wollok: 3.0.0 
-
-Una vez terminado, no tenemos problemas en que el repositorio sea público 
+<b>Salir al perder/ganar:</b> Con la tecla <u>Q</u> salis del juego al finalizar.
