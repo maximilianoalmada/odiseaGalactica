@@ -54,7 +54,7 @@ Durante el transcurso de los niveles, aparecerán hasta dos tanques de nafta y m
 
 <b>Tercer nivel:</b> En este último nivel, el jugador tendrá que matar al jefe final utilizando los recursos especiales previamente adquiridos mientras maneja sus recursos normales y además esquiva los ataques enemigos. 
 
-## Reglas de Juego / Instrucciones:
+## Controles:
 <b>Mover:</b> La nave se mueve con las flechas del teclado (flecha para arriba, flecha para abajo, flecha para la derecha, flecha para la izquierda).
 
 <b>Disparar:</b> La nave dispara con la barra espaciadora.
