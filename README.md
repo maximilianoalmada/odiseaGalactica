@@ -64,11 +64,3 @@ Durante el transcurso de los niveles, aparecerán hasta dos tanques de nafta y m
 <b>Pasar a siguiente pantalla:</b> Con la tecla Enter se pasa a la siguiente pantalla.
 
 <b>Salir al perder/ganar:</b> Con la tecla "Q" salis del juego al finalizar.
-
-## Otros:  
-
-Programación con Objetos I – Comisión 2 – Universidad Nacional de Hurlingham 
-
-Versión de Wollok: 3.0.0 
-
-Una vez terminado, no tenemos problemas en que el repositorio sea público 
