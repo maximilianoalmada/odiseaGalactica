@@ -18,6 +18,14 @@
 ![Pantalla Inical](./assets/inicio1.png)
 Pantalla de inicio del juego.
 
+![Pantalla Jugabilidad Nivel 1](./assets/jugabilidadNivel1.jpeg)
+Pantalla de jugabilidad Nivel 1.
+
+![Pantalla Jugabilidad Nivel 2](./assets/jugabilidadNivel2.jpeg)
+Pantalla de jugabilidad Nivel 2.
+
+![Pantalla Jugabilidad Nivel 3](./assets/jugabilidadNivel3.jpeg)
+Pantalla de jugabilidad Nivel 3.
 
 ![Pantalla informacion Nivel 1](./assets/instr1.png)
 Pantalla explicativa del nivel 1.
